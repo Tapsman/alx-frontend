@@ -2,11 +2,11 @@ html {
   scroll-behavior: smooth;
 }
 
-:root{
+:root {
 --color-primary: #d73953;
 --color-black: #090909;
 --color-white: #ffffff;
---color-ligt-grey: #f3f3f3;
+--color-light-grey: #f3f3f3;
 --color-dark-grey: #f3f3f3;
 --text-color: var(--color-black);
 }
