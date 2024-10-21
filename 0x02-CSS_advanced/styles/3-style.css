@@ -6,7 +6,6 @@ html {
 --color-primary: #d73953;
 --color-black: #090909;
 --color-white: #ffffff;
---color-light-grey: #353535;
 --color-dark-grey: #f3f3f3;
 --text-color: var(--color-black);
 }
