@@ -583,7 +583,7 @@ a:active {
   padding: var(--header-padding);
 }
 
-.header-logo: {
+.header-logo {
   position: var(--header-logo-position);
 }
 
