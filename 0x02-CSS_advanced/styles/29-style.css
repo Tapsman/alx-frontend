@@ -577,8 +577,6 @@ a:active {
   color: var(--nav-item-link-hover);
 }
 
-/* ==============Editing nav item link gover ===============*/
-
 .nav .nav-link::before {
   content: "";
   position: absolute;
